@@ -1,0 +1,55 @@
+body{
+    /* background:rgb(146, 41, 146) */
+    background-image: url ('https://images-na.ssl-images-amazon.com/images/I/61h1O%2BdoNxL._UY395_.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font size: 100cm;
+    text-align: center;
+    width:100vw;
+    height: 100vw
+
+}
+#test{
+    color: rgb(68, 143, 100);
+}
+h1{
+    color: rgb(202, 94, 82);
+}
+
+.red_heading{
+    color: red;
+
+}
+
+#test{
+    color: rgb(187, 63, 104);
+
+}
+
+#halloween {
+    widows: 100Vw;
+}
+
+#heading {
+    font-size: 1rem;
+}
+
+#tired{
+    font-size:1em;
+}
+
+#box {
+    width: 50w;
+    height: 50w;
+    background: powderblue;
+    border: 25Vw
+}
+
+#taste{
+    width: 50w;
+    height: 50w;
+    background: rgb(230, 87, 35);
+    display: inline;
+    left: 65px;
+}
