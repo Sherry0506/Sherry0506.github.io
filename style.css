@@ -1,14 +1,10 @@
 body{
     /* background:rgb(146, 41, 146) */
-    background-image: url ('https://images-na.ssl-images-amazon.com/images/I/61h1O%2BdoNxL._UY395_.jpg');
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/61h1O%2BdoNxL._UY395_.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    font size: 100cm;
     text-align: center;
-    width:100vw;
-    height: 100vw
-
 }
 #test{
     color: rgb(68, 143, 100);
@@ -28,11 +24,11 @@ h1{
 }
 
 #halloween {
-    widows: 100Vw;
+    width: 100vw;
 }
 
 #heading {
-    font-size: 1rem;
+    font-size: 1em;
 }
 
 #tired{
@@ -40,15 +36,15 @@ h1{
 }
 
 #box {
-    width: 50w;
-    height: 50w;
+    width: 50vw;
+    height: 50%;
     background: powderblue;
-    border: 25Vw
+    border: 25vw;
 }
 
 #taste{
-    width: 50w;
-    height: 50w;
+    width:50vw;
+    height:50px;
     background: rgb(230, 87, 35);
     display: inline;
     left: 65px;
