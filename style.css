@@ -1,32 +1,34 @@
-body{
+body {
     /* background:rgb(146, 41, 146) */
-    background-image: url('http://interfacelift.com/wallpaper/previews/04194_pagview_672x420.jpg');
+    background-image: url('https://wallpaperplay.com/walls/full/9/e/7/46730.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 50px;
     text-align: center;
-    width:100vw;
-    height:100%
-    background-position: center;
+    width: 100vw;
+    height: 100% background-position: center;
     margin: 0 0 0 0 !important
-    /* text-align: center; */
+        /* text-align: center; */
 }
-#test{
+
+#test {
     color: rgb(68, 143, 100);
 }
-h1{
+
+h1 {
     color: rgb(202, 94, 82);
 }
 
-.red_heading{
+.red_heading {
     color: red;
 
 }
 
-#test{
+#test {
     color: rgb(187, 63, 104);
 
 }
+
 .navbar {
     background: pink !important;
 
@@ -40,8 +42,8 @@ h1{
     font-size: 2em;
 }
 
-#tired{
-    font-size:1em;
+#tired {
+    font-size: 1em;
 }
 
 #box {
@@ -51,15 +53,15 @@ h1{
     border: 25vw;
 }
 
-#taste{
-    width:50vw;
-    height:50px;
+#taste {
+    width: 50vw;
+    height: 50px;
     background: rgb(230, 87, 35);
     display: inline;
     left: 65px;
 }
 
-#pink_box {
+/* #pink_box {
     background: rebeccapurple;
     width: 200px;
     height: 2000px;
@@ -76,5 +78,47 @@ h1{
     left: 20%
     position: relative;
     z-index: 2;
+} */
+
+.navbar-nav {
+    color: blue !important;
+    font-family: snell roundhand, cursive;
 }
 
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+#hero {
+    position: relative;
+    width: 100vh;
+    height: 100vh;
+    font-family: 'Annie Use Your Telescope';
+    font-size: 22px;
+}
+
+#bg {
+    position: absolute;
+    width: 100vh;
+    height: 100vh;
+    /* background-image: url("images/space.jpg"); */
+    */ background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#main_content {
+    position: relative;
+    text-align: left;
+    color: orchid;
+    top: 50vh;
+}
+
+.tint {
+    position: absolute;
+    width: 100vh;
+    height: 100vh;
+    background: rgba(41, 97, 172, 0.15);
+}
